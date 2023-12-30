@@ -134,5 +134,3 @@ Write your own steps here.
 ## Result:
 Successfully created front page
 
-## Result:
-Write your result
